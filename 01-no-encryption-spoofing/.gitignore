@@ -1,0 +1,8 @@
+**/.pio/
+sdkconfig.old
+
+**/.vscode/
+
+**/include/README
+**/lib/README
+**/test/README
